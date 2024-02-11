@@ -8,4 +8,4 @@ Documentation: Documentation and guides for understanding and using the reports.
 Scripts: Any scripts used for data preprocessing or automation.
 Feel free to explore, contribute, or provide feedback. Happy analyzing!
 
-For more information, check out the documentation 
+For more information, check out the documentation.
