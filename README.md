@@ -16,5 +16,4 @@ Scripts: Any scripts used for data preprocessing or automation.
 
 Feel free to explore, contribute, or provide feedback. Happy analyzing!
 
-
 For more information, check out the documentation.
