@@ -1,5 +1,4 @@
 # Power_BI_Project-
-Power BI Project Repository
 Welcome to the Power BI project repository! This repository contains all the resources and files related to our Power BI project.
 
 Contents:
