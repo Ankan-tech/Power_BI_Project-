@@ -1,4 +1,4 @@
-# Power_BI_Dashboard_Project-
+# Power BI Dashboard-
 Welcome to the Power BI project repository! 
 
 This repository contains all the resources and files related to our Power BI project.
