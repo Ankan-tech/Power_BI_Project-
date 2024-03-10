@@ -1,4 +1,4 @@
-# Power BI sales
+# Power BI sales Dashboard
 Dashboard-
 Welcome to the Power BI project repository! 
 
