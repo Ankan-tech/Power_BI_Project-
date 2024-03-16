@@ -1,6 +1,5 @@
 # Power BI sales Dashboard
 Dashboard-
-![Screenshot (122)](https://github.com/Ankan-tech/Power_BI_Project-/assets/144318195/086cb381-89e9-496b-b0b7-b437ab777bd0)
 
 Welcome to the Power BI project repository! 
 
